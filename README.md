@@ -78,7 +78,7 @@ C:\EnumEDR.exe --edr
 [+] DetectEDRs - Finished looping through all processes and drivers
 ```
 
-![](Pasted%20image%2020250722092746.png)
+<img width="974" height="606" alt="Pasted image 20250722092746" src="https://github.com/user-attachments/assets/c6c2a630-47ff-42fd-be21-83bdca6dd6a4" />
 
 ## Credits
 I got inspired to expand upon the tool provided in the Evasion Lab (CETP from [Altered Security](https://www.alteredsecurity.com/evasionlab)) which enumerated the EDR processes.
